@@ -10,4 +10,4 @@ FB cloning tool
 
 ~ ls
 
-~ python cmds.py
+~ python Yasir.py
